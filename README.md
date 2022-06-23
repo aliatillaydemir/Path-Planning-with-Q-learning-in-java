@@ -14,11 +14,11 @@ Mavi ve yeşil kare başlangıçta en yukarıdalardır. Seçim ekranı yardımı
 
 Yol hesaplanır ve gri çizgilerle gösterilir.
 
-<img width="1105" alt="Screenshot_7" src="https://user-images.githubusercontent.com/43906043/175356217-fb865ebf-5b1d-436d-9674-3e024c2f62b8.png">
+<img width="1002" alt="Screenshot_8" src="https://user-images.githubusercontent.com/43906043/175356229-eab77469-a87b-4a3a-89c3-e82de8bc49f5.png">
 
 ## Hata:
 
-<img width="1002" alt="Screenshot_8" src="https://user-images.githubusercontent.com/43906043/175356229-eab77469-a87b-4a3a-89c3-e82de8bc49f5.png">
+<img width="1105" alt="Screenshot_7" src="https://user-images.githubusercontent.com/43906043/175356217-fb865ebf-5b1d-436d-9674-3e024c2f62b8.png">
 
 Mavi ve yeşil kareler kırmızı engellerin üstüne gelemezler. Kullanıcı böyle bir durumda farklı bir kare(beyaz) seçmek zorunda.
 
